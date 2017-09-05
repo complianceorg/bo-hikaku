@@ -7,7 +7,6 @@
 <div class="wrapper clearfix">
 <section class="left-box">
 <div class="jyouken">
-  <!-- a -->
   <ul class="clearfix">
     <li><a href="#"><img src="img/hikaku1.jpg" alt="初心者向けバイナリー口座"></a></li>
     <li><a href="#"><img src="img/hikaku2.jpg" alt="5000円から始められるバイナリー口座"></a></li>
