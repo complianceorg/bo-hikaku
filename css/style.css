@@ -654,7 +654,7 @@ header .head nav li a {
   margin-bottom: 10px;
 }
 .jyouken li:nth-of-type(odd) {
-  margin-right: 20px;
+  margin-right: 19px;
 }
 @media screen and (max-width: 640px) {
   .jyouken {
