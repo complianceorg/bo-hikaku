@@ -1,3 +1,4 @@
+//
 <?php require 'include/header.php';?>
 <?php require 'include/function.php';?>
 <?php require 'include/db.inc';?>
@@ -6,6 +7,7 @@
 </div>
 <div class="wrapper clearfix">
 <section class="left-box">
+  <!-- a -->
 <div class="jyouken">
   <ul class="clearfix">
     <li><a href="#"><img src="img/hikaku1.jpg" alt="初心者向けバイナリー口座"></a></li>
