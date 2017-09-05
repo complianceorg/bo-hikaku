@@ -1,4 +1,3 @@
-//
 <?php require 'include/header.php';?>
 <?php require 'include/function.php';?>
 <?php require 'include/db.inc';?>
