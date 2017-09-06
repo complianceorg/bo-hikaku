@@ -4,6 +4,7 @@
 <div class="main">
 <img src="img/botop1.jpg" alt="バイナリーオプションナビ">
 </div>
+<a href="#"></a>
 <div class="wrapper clearfix">
 <section class="left-box">
   <h2><i class="fa fa-list-ul fa-fw" aria-hidden="true"></i>比較表</h2>
