@@ -2,6 +2,7 @@
 <?php require 'include/function.php';?>
 <?php require 'include/db.inc';?>
 <div class="main">
+  <!-- a -->
 <img src="img/botop1.jpg" alt="バイナリーオプションナビ">
 </div>
 <div class="wrapper clearfix">
