@@ -14,6 +14,7 @@
     <li><a href="#"><img src="img/hikaku4.jpg" alt="100から取引出来る口座"></a></li>
   </ul>
 </div>
+<a href="#"></a>
 <h2><i class="fa fa-search fa-fw" aria-hidden="true"></i>絞り込み条件で探す</h2>
 <form action="<?php echo $site_url; ?>sql.php" method="POST">
 <div class="search-category-wrap clearfix">
